@@ -27,4 +27,4 @@ This is a hassle free platform programmed in python to book tickets for an amuse
 <img width="1440" alt="Screenshot 2024-06-09 at 9 48 19 AM" src="https://github.com/rudra-02/AmusementPark/assets/92135723/88f6a75c-ed1a-4cfe-a5d9-f82212a651b8">
 1.2.4 Clear system<br>
 <img width="1440" alt="Screenshot 2024-06-09 at 9 48 51 AM" src="https://github.com/rudra-02/AmusementPark/assets/92135723/7a7ff862-0c1f-47b5-8aa0-ee8adb41142a">
-ENDO OF PROJECT
+END OF PROJECT
